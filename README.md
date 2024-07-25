@@ -27,11 +27,6 @@ https://www.rust-lang.org/tools/install
 
 ## Usage <a name = "usage"></a>
 
-For the first one you can do : 
-
-```
-./main
-```
 For the cargo Project you can do : 
 
 ```
